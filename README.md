@@ -1,4 +1,8 @@
 Hackademic-Bundle
 =================
 
-A Collection of Applescripts for automating academic tasks
+A Collection of scripts for automating academic tasks. 
+
+Included:
+
+*
